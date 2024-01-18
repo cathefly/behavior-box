@@ -14,3 +14,11 @@ https://www.tinkercad.com/things/5A6cNr71IgX-squarebox255x255wlidv12?sharecode=e
 
 5) Linear maze:
 https://www.tinkercad.com/things/hFrZvhwns7t-linear-maze12cm
+
+6) place preference:
+   https://www.tinkercad.com/things/3934M5478Yh-placepreferencev13toprint2?sharecode=QhBB8R1ffcmJ2W7792lYm3im2g8EQIjdu_vv2xd9wyY
+   
+8) hole board assay:
+   https://www.tinkercad.com/things/jyBgx79vKvr-holeboardplacepreferencev13toprint2?sharecode=_BzE8lxhe1NKcqoYRLWzjaZHr8if6Dqw8081-ByMlpM
+   
+10) 
