@@ -8,3 +8,6 @@ https://www.tinkercad.com/things/7dIduoyOc45-feedingbox-fed3v11print-397x178x-26
 
 Squred open-field box:
 https://www.tinkercad.com/things/5A6cNr71IgX-squarebox255x255wlidv12?sharecode=eASaRyAOCMkLaz_TBSkM19uwwXf4fxtKDkMMDk5qJKY
+
+Linear maze:
+https://www.tinkercad.com/things/hFrZvhwns7t-linear-maze12cm
