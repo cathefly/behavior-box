@@ -21,4 +21,5 @@ https://www.tinkercad.com/things/hFrZvhwns7t-linear-maze12cm
 8) hole board assay:
    https://www.tinkercad.com/things/jyBgx79vKvr-holeboardplacepreferencev13toprint2?sharecode=_BzE8lxhe1NKcqoYRLWzjaZHr8if6Dqw8081-ByMlpM
    
-10) 
+10) home-cage lid (work with standard mouse holding cages, with or without FED3 unit in the cage)
+    https://www.tinkercad.com/things/dZbSGPwdTIk-homecagelidfed3-partv200
