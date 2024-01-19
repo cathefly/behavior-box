@@ -1,6 +1,6 @@
 This is a depository of customized CAD files designed with TinkerCad software. It is shared for people who are interested in designing their own behavioral tests with small animals while maintain certain amount of freedom with video recording, automatic feeding, optogenetics, and in vivo calcium imaging studies. 
 
-Materials that were tested for laser-cutting includes acrylic sheets (1/4 inch, McMaster Carr). Assembling of each box comes handly with joinery on edges, which interlocks each adjacent piece. This feature also allows for easy cleaning of dead corners after finishing a behavior session. 
+Materials that were tested for laser-cutting includes acrylic sheets (1/4 inch, McMaster Carr). Assembling of each box comes handly with joinery on edges, which interlocks each adjacent piece. Therefore, no glue is needed to set up a box. This feature also allows for easy cleaning of dead corners after finishing a behavior session. 
 
 Behavior box for multiple behavioral testing are provided.
 
